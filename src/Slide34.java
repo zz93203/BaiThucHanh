@@ -1,3 +1,5 @@
+// Xây dựng chương trình giải phương trình bậc 2, với các hệ số a,b,c nhập vào từ bàn phím.
+
 import java.util.Scanner;
 
 public class Slide34 {

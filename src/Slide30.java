@@ -1,3 +1,5 @@
+// Xây dựng chương trình cho phép nhập vào một số n từ bàn phím, tính tổng các chữ số của số n vừa nhập vào.
+
 import java.util.Scanner;
 
 public class Slide30 {

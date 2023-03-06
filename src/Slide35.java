@@ -1,3 +1,6 @@
+// Xây dựng chương trình cho phép nhập vào 2 số nguyên từ bàn phím, in ra màn hình số nhỏ nhất trong 2 số.
+
+
 import java.util.Scanner;
 
 public class Slide35 {
